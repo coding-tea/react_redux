@@ -44,3 +44,21 @@ header a{
     text-decoration: none;
 }
 
+button{
+    padding: 10px 15px;
+    margin: 10px;
+    background-color: #bdd269;
+    font-size: 22px;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.value{
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
